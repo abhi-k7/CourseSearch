@@ -1,0 +1,6 @@
+Title: 15-495Algebraic and Numerical Algorithms
+Course Number: 15-495
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course will provide some implementation motivated perspectives on algebraic and numerical algorithms, and will somewhat follow the Complexity and Linear Algebra semester program at the Simons Institute in Fall 2025 (https://simons.berkeley.edu/programs/complexity-linear-algebra). It will normally meet on Wednesdays and Fridays, with some Monday meetings to fit the schedule of the program. Topics covered include polynomials, bit complexity, and numerical approximation/perturbation schemes. Evaluations is by written problem sets, and either compilation and presentation of research, or performances in the UCup/AtCoder series of weekly programming contests. Presentation will assume some proficiency with algebra, number theory, and problem solving. An ideal background is mastery of either: Putnam A1~A3/B1~B3 (minus geometry); or IMO Shortlist C1~C4/N1~N2/A1~A2; or AtCoder ~1000-rated problems (minus data structures).

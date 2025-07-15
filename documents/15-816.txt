@@ -1,0 +1,6 @@
+Title: 15-816Advanced Topics in Logic: Automated Reasoning and Satisfiability
+Course Number: 15-816
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Automated reasoning has become a powerful technology with applications ranging from verification of hardware and software to solving long-standing open problems in mathematics. This course covers several state-of-the-art automated reasoning techniques and provides hands-on experience with research questions in this area.

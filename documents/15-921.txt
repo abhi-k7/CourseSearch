@@ -1,0 +1,6 @@
+Title: 15-921Reading on Research
+Course Number: 15-921
+Units: 3 units
+Prerequisites: None
+Corequisites: None
+Description: This is a weird seminar. It's not about doing research. Instead, it's about the (often, undiscussed) psychological, emotional, and philosophical themes that you will face as you come to identify as a researcher.

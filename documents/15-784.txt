@@ -1,0 +1,6 @@
+Title: 15-784Cooperative AI
+Course Number: 15-784
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: In AI and beyond, systems of multiple agents are naturally modeled using game theory. From game theory, we know that sometimes, when each agent pursues its own objectives, the outcome may be one that is bad for all agents (e.g., the Prisoner's Dilemma). Learning algorithms can indeed converge to such bad equilibria. What can be done to prevent such bad outcomes, and how should we think about designing agents in such contexts? In this course, we will approach this question from a variety of angles, ranging from traditional approaches in game theory to novel ones that fit AI better than humans.

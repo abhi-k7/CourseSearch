@@ -1,0 +1,6 @@
+Title: 15-824Logical Foundations of Cyber-Physical Systems
+Course Number: 15-824
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Cyber-physical systems (CPSs) combine combine cyber capabilities (computation and/or communication) with physical capabilities (motion or other physical processes). Cars, aircraft, and robots are prime examples, because they move physically in space in a way that is determined by discrete computerized control algorithms. Designing these algorithms to control CPSs is challenging due to their tight coupling with physical behavior. At the same time, it is vital that these algorithms be correct, since we rely on CPSs for safety-critical tasks like keeping aircraft from colliding. In this course we will strive to answer the fundamental question posed by Jeannette Wing: Please refer to https://www.cs.cmu.edu/csd-grad/courseschedulef22.html for the most recent schedule updates.

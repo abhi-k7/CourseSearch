@@ -1,0 +1,6 @@
+Title: 15-259Probability and Computing
+Course Number: 15-259
+Units: 12 units
+Prerequisites: (21-268 or 21-266 or 21-259 or 16-211) and (21-128 or 21-127 or 15-251 or 15-151)
+Corequisites: None
+Description: Probability theory is indispensable in computer science today. In areas such as artificial intelligence and computer science theory, probabilistic reasoning and randomization are central. Within networks and systems, probability is used to model uncertainty and queuing latency. This course gives an introduction to probability as it is used in computer science theory and practice, drawing on applications and current research developments as motivation. The course has 3 parts:  Part I is an introduction to probability, including discrete and continuous random variables, heavy tails, simulation, Laplace transforms, z-transforms, and applications of generating functions. Part II is an in-depth coverage of concentration inequalities, like the Chernoff bound and SLLN bounds, as well as their use in randomized algorithms.  Part III covers Markov chains (both discrete-time and continuous-time) and stochastic processes and their application to queuing systems performance modeling. This is a fast-paced class which will cover more material than the other probability options and will cover it in greater depth.

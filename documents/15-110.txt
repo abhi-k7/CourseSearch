@@ -1,0 +1,6 @@
+Title: 15-110Principles of Computing
+Course Number: 15-110
+Units: 10 units
+Prerequisites: None
+Corequisites: None
+Description: A course in fundamental computing principles for students with minimal or no computing background. Programming constructs: sequencing, selection, iteration, and recursion. Data organization: arrays and lists. Use of abstraction in computing: data representation, computer organization, computer networks, functional decomposition, and application programming interfaces. Use of computational principles in problem-solving: divide and conquer, randomness, and concurrency. Classification of computational problems based on complexity, non-computable functions, and using heuristics to find reasonable solutions to complex problems. Social, ethical and legal issues associated with the development of new computational artifacts will also be discussed. Please direct any questions about this waitlist to Sara Kuntz at sgolembi@andrew.cmu.edu.

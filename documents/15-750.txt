@@ -1,0 +1,6 @@
+Title: 15-750Algorithms in the Real World
+Course Number: 15-750
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: The course covers a broad set of topics in algorithms design and analysis. The goal is to cover tools and algorithms that give students the ability to (a) recognize which tool or method to apply to problems, (b) to become reasonably proficient at using these tools, and (c) to be able to reason about the correctness and performance of the resulting algorithms. The course webpage for this semester will list the tentative list of topics to be covered; these will include basic graph algorithms, randomized algorithms, hashing and streaming, flows and linear programming, convex optimization, and linear algebraic algorithms. Please refer to https://www.cs.cmu.edu/~csd-grad/courseschedules22.html for the most recent schedule updates.

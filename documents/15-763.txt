@@ -1,0 +1,6 @@
+Title: 15-763Physics-based Animation of Solids and Fluids
+Course Number: 15-763
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course explores physics-based animations of solids and fluids, key in fields like visual effects, VR, and digital fashion. Central to this is solving partial differential equations (PDEs) using numerical methods, with applications in areas such as computational mechanics and 3D content creation. Through lectures and student presentations on research papers, we will cover the simulation of rigid bodies, deformable bodies, shells, rods, liquids, and smoke, from PDE discretization to solver implementation. A strong background in math and programming is recommended, as students will work on advanced numerical methods. The course also includes a project where students apply their knowledge to develop and test simulations. By the end, students will understand both classic and cutting-edge methods in solids and fluids simulation, along with the challenges of advancing these techniques in the broader field.

@@ -1,0 +1,6 @@
+Title: 15-111College Programming and Computer Science (College in High School)
+Course Number: 15-111
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: A college-level introduction to the foundations of programming offered to high school students through Carnegie Mellon's CS Academy platform. The course emphasizes problem-solving in Python with clear, robust, and reasonably efficient code using top-down design, informal analysis, and effective testing and debugging. Topics include data and expressions, conditionals, loops, strings, 1d and 2d lists, animations using model-view-controller, sets, dictionaries, efficiency and Big O analysis, object-oriented programming, recursion and backtracking.

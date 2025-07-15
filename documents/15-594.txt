@@ -1,0 +1,6 @@
+Title: 15-594Independent Study in Computer Science
+Course Number: 15-594
+Units: 3-18 units
+Prerequisites: None
+Corequisites: None
+Description: The School of Computer Science offers Independent Study courses, which allow motivated students to work on projects under the supervision of a faculty advisor while receiving academic credit. Independent studies are usually one semester in duration and require prior approval from the faculty member and the School of Computer Science.

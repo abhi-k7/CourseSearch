@@ -1,0 +1,6 @@
+Title: 15-113Special Topics in Applied Python Programming
+Course Number: 15-113
+Units: 3 units
+Prerequisites: 15-112
+Corequisites: None
+Description: In this Special Topics course, we will expand on the topics of 15-112, covering intermediate applied Python programming constructs and practices such as intermediate collections (deques, defaultdicts, heaps, etc), itertools (with combinatorial iterators), functools, numpy, scipy, sympy, matplotlib, randoms, context managers, regular expressions, serialization, threads, processes, flask, Python C extensions, and more.

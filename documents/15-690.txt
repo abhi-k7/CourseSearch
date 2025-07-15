@@ -1,0 +1,6 @@
+Title: 15-690MSCS Career Planning
+Course Number: 15-690
+Units: 3 units
+Prerequisites: None
+Corequisites: None
+Description: This class is for students enrolled in the Applied Study variant of the MSCS program. The class will support students in clarifying their objectives for their applied-study experience in consultation with their advisor and Career Center staff. Throughout the semester students will seek, develop, and select among applied-study experiences.

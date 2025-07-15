@@ -1,0 +1,6 @@
+Title: 15-990Computer Science Colloquium
+Course Number: 15-990
+Units: 0 units
+Prerequisites: None
+Corequisites: None
+Description: This course number is used for scheduling distinguished lectures offered throughout the semester.

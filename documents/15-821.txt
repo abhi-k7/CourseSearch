@@ -1,0 +1,6 @@
+Title: 15-821Mobile and Pervasive Computing
+Course Number: 15-821
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This is a course exploring research issues in mobile computing and its close relative, pervasive computing (aka "Internet of Things (IoT)").   Many traditional areas of computer science and computer engineering are impacted by the constraints and demands of mobile and pervasive computing. The course will offer significant hands-on experience:  students will work in small groups under the guidance of a mentor on a project. Each student will present a research paper from the literature in a conference-style 30-minute  talk. In teams of two,  students will present a short (30 minutes) overview of the commercial landscape for one of the topics covered in class.  There will a brief quiz at the start of each class, based on the readings  for that class.  Prerequisites Knowledge of operating systems, distributed systems, and computer architecture. If in doubt, check with one of the instructors before registering.

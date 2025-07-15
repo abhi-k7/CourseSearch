@@ -1,0 +1,6 @@
+Title: 15-411Compiler Design:
+Course Number: 15-411
+Units: 15 units
+Prerequisites: 15-213
+Corequisites: None
+Description: This course covers the design and implementation of compiler and run-time systems for high-level languages, and examines the interaction between language design, compiler design, and run-time organization. Topics covered include syntactic and lexical analysis, handling of user-defined types and type-checking, context analysis, code generation and optimization, and memory management and run-time organization.

@@ -1,0 +1,6 @@
+Title: 15-897Advanced Topics in Parallel Computing: Parallelism and Concurrency
+Course Number: 15-897
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Section B: Parallelism and Concurrency. Parallelism and concurrency play a fundamental role in computing. Due to increasing demand in computational resources, many interesting tasks today, ranging from web servers, to scientific simulations exploit parallelism and concurrency. This course aims to develop a mathematical foundation upon which parallelism and concurrency may be studied and covers a number of fundamental algorithmic and programming techniques.

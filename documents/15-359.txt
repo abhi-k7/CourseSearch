@@ -1,0 +1,6 @@
+Title: 15-359Probability & Computing: Randomized Algs and Markov Chains
+Course Number: 15-359
+Units: 12 units
+Prerequisites: 21-325 or 15-259
+Corequisites: None
+Description: Probability theory has become indispensable in computer science. In areas such as artificial intelligence and computer science theory, probabilistic methods and ideas based on randomization are central. In other areas such as networks and systems, probability is becoming an increasingly useful framework for handling uncertainty and modeling the patterns of data that occur in complex systems. This course is a follow-up course to 15-259, Probability and Computing. It will cover Chapters 18-27 of the same textbook, "Introduction to Probability for Computing", by Prof. Harchol-Balter. Topics include concentration inequalities, various randomized algorithms including number theoretic routines, Markov chains and their many applications, and queuing theory. The course will assume familiarity with multivariate calculus and linear algebra.

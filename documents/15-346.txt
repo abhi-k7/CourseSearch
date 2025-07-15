@@ -1,0 +1,6 @@
+Title: 15-346Computer Architecture: Design and Simulation
+Course Number: 15-346
+Units: 12 units
+Prerequisites: 15-213
+Corequisites: None
+Description: This course will help students develop an understanding of basic microarchitectural principles and designs.  Starting with creating benchmarks and simulators, students will learn the practice of computer architecture design.  The emphasis will be on how processors exploit instruction-level parallelism for performance, as well as the supporting technologies such as caches and branch prediction that are required.  Several frontiers of current research will be explored in energy efficiency and security threats.

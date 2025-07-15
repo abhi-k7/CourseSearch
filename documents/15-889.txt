@@ -1,0 +1,6 @@
+Title: 15-889Special Topics in AI: Adv. Topics in Reinforcement Learning and Decision Making
+Course Number: 15-889
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This seminar class will cover some advanced topics in RL including foundations, algorithms, applications (in foundation model fine-tuning, robotics, scientific applications, etc). This course is expected to involve paper reading each week, including a discussion of these papers in the class, followed by a class project.

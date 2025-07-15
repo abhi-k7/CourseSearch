@@ -1,0 +1,6 @@
+Title: 15-721Advanced Database Systems
+Course Number: 15-721
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course is a comprehensive study of the internals of modern database management systems. It will cover the core concepts and fundamentals of the components that are used in large-scale analytical systems (OLAP). The class will stress both efficiency and correctness of the implementation of these ideas.

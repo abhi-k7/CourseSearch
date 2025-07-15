@@ -1,0 +1,6 @@
+Title: 15-799Special Topics in Database Systems: Query Optimization
+Course Number: 15-799
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course is a hands-on exploration of the most challenging problem in computer science: database query optimization. It will cover the classical and state-of-the-art methods and algorithms for converting SQL statements into physical query plans. Additional topics include cost models, feedback mechanisms, and adaptive query optimization. All class projects will be in the context of an open-source query optimizer service using real-world queries. The course is appropriate for graduate students in software systems and advanced undergraduates with nasty programming skills that are pursuing a database-centric lifestyle.

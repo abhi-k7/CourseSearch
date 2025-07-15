@@ -1,0 +1,6 @@
+Title: 15-795Algebraic and Numerical Algorithms
+Course Number: 15-795
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course will provide some implementation motivated perspectives on algebraic and numerical algorithms, and will somewhat follow the Complexity and Linear Algebra semester program at the Simons Institute in Fall 2025 (https://simons.berkeley.edu/programs/complexity-linear-algebra). It will normally meet on Wednesdays and Fridays, with some Monday meetings to fit the schedule of the program.

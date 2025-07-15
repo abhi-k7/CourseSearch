@@ -1,0 +1,6 @@
+Title: 15-759Special Topics in Theory: A Principled Approach to Optimization
+Course Number: 15-759
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This is a course giving a rigorous treatment of several topics in the theory of convex optimization. There will be a particular focus on developing intuition for how to analyze many convex optimization processes from first principles. Topics may include: gradient descent, interior point methods, linear regression, linear programming, sparsification, and more.

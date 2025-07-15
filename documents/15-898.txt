@@ -1,0 +1,6 @@
+Title: 15-898Quantum Computing Systems
+Course Number: 15-898
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Quantum computing has been developing into an important field cross-cutting several disciplines, including computer science, physics, and mathematics. Over the past several decades, there has been much work on the theory front, including advances in quantum algorithms. In recent years, this work is starting to become practically relevant.

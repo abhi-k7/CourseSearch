@@ -1,0 +1,6 @@
+Title: 15-317Constructive Logic
+Course Number: 15-317
+Units: 9 units
+Prerequisites: 15-150
+Corequisites: None
+Description: This multidisciplinary junior-level course is designed to provide a thorough introduction to modern constructive logic, its roots in philosophy, its numerous applications in computer science, and its mathematical properties. Some of the topics to be covered are intuitionistic logic, inductive definitions, functional programming, type theory, realizability, connections between classical and constructive logic, decidable classes.

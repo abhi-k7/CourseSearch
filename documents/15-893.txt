@@ -1,0 +1,6 @@
+Title: 15-893Special topics: Cryptography meets algorithms
+Course Number: 15-893
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: In this course, we will cover various advanced topics at the intersection of cryptography and algorithms, especially how algorithmic techniques are used in the construction of modern cryptographic schemes.

@@ -1,0 +1,6 @@
+Title: 15-106Introduction to Computing for Data Analysis
+Course Number: 15-106
+Units: 5 units
+Prerequisites: None
+Corequisites: None
+Description: [Course Pilot] An introductory course in programming for students in statistics-related disciplines using R. Fundamental data types and data structures: booleans, numbers, characters, vectors, matrices, data frames, and lists. Programming constructs: assignment, conditionals, loops, function calls. Processing data: vectorization, apply functions, text processing, plotting tools. Additional topics, time permitting: writing functions, using data files, random number generation and simulation. This course is not for credit for SCS majors.

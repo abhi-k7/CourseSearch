@@ -1,0 +1,6 @@
+Title: 15-746Storage Systems
+Course Number: 15-746
+Units: 12 units
+Prerequisites: 18-213 or 15-213 or 14-513 or 15-503 or 15-513 or 18-600 or 18-613
+Corequisites: None
+Description: Storage systems are among the most fascinating and the most important parts of computer systems. They often dominate the performance of a system, and failures of other components are frequently addressed by restarting from the data stored on them. Indeed, storage systems hold the crown jewels of most organizations: their information (from source code to Microsoft's software to the sales databases of every e-commerce site to the logs and indices driving the Big Data and ML revolution). There continues to be great demand for bright people and better solutions in this critical field of computer systems.

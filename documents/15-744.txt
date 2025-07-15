@@ -1,0 +1,6 @@
+Title: 15-744Computer Networks:
+Course Number: 15-744
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: 15-744 is a doctoral course in computer networking research. The goals are:  To understand the state of the art in network protocols, network architecture, and networked systems. To engage with systems research at a scholarly level through written and oral argument. To investigate novel ideas and make new scholarly arguments through a semester-long research project in computer networking.

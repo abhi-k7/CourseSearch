@@ -1,0 +1,6 @@
+Title: 15-867Algorithmic Textiles Design:
+Course Number: 15-867
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Textile artifacts are -- quite literally -- all around us; from clothing to carpets to car seats. These items are often produced by sophisticated, computer-controlled fabrication machinery. In this course we will discuss everywhere code touches textiles fabrication, including design tools, simulators, and machine control languages. Students will work on a series of multi-week, open-ended projects, where they use code to create patterns for modern sewing/embroidery, weaving, and knitting machines; and then fabricate these patterns in the textiles lab. Students in the 800-level version of the course will be required to create a final project which develops a new algorithm, device, or technique in the realm of textiles fabrication.

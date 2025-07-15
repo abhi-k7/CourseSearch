@@ -1,0 +1,6 @@
+Title: 15-780Graduate Artificial Intelligence
+Course Number: 15-780
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course provides a broad perspective on AI, with a focus on foundational principles powering modern AI. This course will cover (i) machine learning and neural networks, (ii) large language models and generative AI, (iii) search and reinforcement learning, (iv)  game theory and multi-agent systems, and (v) issues of bias and unfairness in AI. The material will be presented from a mathematical perspective, with assignments emphasizing implementation alongside foundational principles.

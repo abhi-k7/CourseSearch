@@ -1,0 +1,6 @@
+Title: 15-260Statistics and Computing
+Course Number: 15-260
+Units: 3 units
+Prerequisites: 15-251 and 21-259 and 21-241
+Corequisites: 15-259, 15-659
+Description: Statistics is essential for a wide range of fields including machine learning, artificial intelligence, bioinformatics, and finance.  This mini course presents the fundamental concepts and methods in statistics in six lectures.  The course covers key topics in statistical estimation, inference, and prediction. This course is only open to students enrolled in 15-259.  Enrollment for 15-260, mini 4, starts around mid semester.

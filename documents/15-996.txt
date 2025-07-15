@@ -1,0 +1,6 @@
+Title: 15-996Introductory Course for CS Doctoral Students (IC)
+Course Number: 15-996
+Units: 6 units
+Prerequisites: None
+Corequisites: None
+Description: This orientation course is required for incoming Computer Science Department doctoral students.

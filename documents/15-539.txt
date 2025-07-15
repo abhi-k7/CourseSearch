@@ -1,0 +1,6 @@
+Title: 15-539Computer Science Pedagogy
+Course Number: 15-539
+Units: 6 units
+Prerequisites: None
+Corequisites: None
+Description: A broad introduction to Computer Science Pedagogy at the grade 9-12 and first-year college levels. Students will implement, test, deploy, and manage free, online, interactive, autograded CS curricular content. As the semester progresses, students may also design some original content as well. Students will also work with regional high school CS teachers and students, providing both online and in-person support and training, and direct instruction. Special permission only.

@@ -1,0 +1,6 @@
+Title: 15-639Independent Study in Computer Science Pedagogy:
+Course Number: 15-639
+Units: 3-18 units
+Prerequisites: None
+Corequisites: None
+Description: This class is for master's students contributing to the development and delivery of a class, e.g., in a co-instructor role or as a preparation for teaching professionally.  Students will be supervised by a faculty member and will participate in graduate teaching support activities sponsored by the Eberly Center for Teaching Excellence and Educational Innovation. You must contact your academic advisor to be enrolled in the class.

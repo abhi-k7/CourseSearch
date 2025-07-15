@@ -1,0 +1,6 @@
+Title: 15-627Monte Carlo Methods and Applications
+Course Number: 15-627
+Units: 9 units
+Prerequisites: None
+Corequisites: None
+Description: The Monte Carlo method uses random sampling to solve computational problems that would otherwise be intractable, and enables computers to model complex systems in nature that are otherwise too difficult to simulate.  This course provides a first introduction to Monte Carlo methods from complementary theoretical and applied points of view, and will include implementation of practical algorithms.  Topics include random number generation, sampling, Markov chains, Monte Carlo integration, stochastic processes, and applications in computational science.  Students need a basic background in probability, multivariable calculus, and some coding experience in any language.

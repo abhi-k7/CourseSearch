@@ -1,0 +1,6 @@
+Title: 15-669Special Topics  Numerical Computing
+Course Number: 15-669
+Units: 12 units
+Prerequisites: 15-122 or 21-241 or 21-259
+Corequisites: None
+Description: Many problems in science, engineering, and computer graphics cannot be solved exactly. Numerical computing provides methods to approximate these solutions using computational techniques. It combines mathematics and programming to solve real-world problems such as simulations, optimization, and data analysis.  The course begins with a review of key mathematical concepts like vector spaces, matrices, and calculus. We then explore how numbers are represented on computers, the types of errors that can occur, and strategies to handle them. Core topics include solving linear and nonlinear systems, eigenvalue problems, optimization, and techniques such as LU decomposition, QR factorization, and singular value decomposition (SVD). We will also cover iterative methods for large systems, interpolation, numerical differentiation, integration, and both ordinary and partial differential equations.  Students will gain hands-on experience implementing algorithms and learn to balance accuracy, stability, and efficiency in computational solutions.

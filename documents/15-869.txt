@@ -1,0 +1,6 @@
+Title: 15-869Special Topics in Graphics::
+Course Number: 15-869
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: ALGORITHMIC TEXTILES DESIGN - Section K: Textile artifacts are -- quite literally -- all around us; from clothing to carpets to car seats. These items are often produced by sophisticated, computer-controlled fabrication machinery. In this course we will discuss everywhere code touches textiles fabrication, including design tools, simulators, and machine control languages. Students will work on a series of multi-week, open-ended projects, where they use code to create patterns for modern sewing/embroidery, weaving, and knitting machines; and then fabricate these patterns in the textiles lab. Students in the 800-level version of the course will additionally be required to create a final project that develops a new algorithm, device, or technique in textiles fabrication. PREREQUISITES: Basic familiarity with a programming language that can write text to files. (No formal prerequisite.) EVALUATION: Students will be graded out of 36 (54 for 15-869K) points, divided as follows: 6 points: In-Class Exercises; 30 points: Topical Projects; 16 points: Final Project (15-869K only) Please refer to https://www.cs.cmu.edu/csd-grad/courseschedules20.html for the most recent schedule updates.

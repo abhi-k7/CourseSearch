@@ -1,0 +1,6 @@
+Title: 15-801CS PhD Alternative Elective
+Course Number: 15-801
+Units: VAR units
+Prerequisites: None
+Corequisites: None
+Description: This number is used internally by the department to transfer approved courses for elective credit.

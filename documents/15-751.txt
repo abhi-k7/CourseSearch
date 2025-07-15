@@ -1,0 +1,6 @@
+Title: 15-751CS Theory Toolkit:
+Course Number: 15-751
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course will take a random walk through various mathematical topics that come in handy for theoretical computer science. It is intended mainly for students earlier in their graduate studies (or very strong undergraduates) who want to do theory research. The idea for the course comes from other courses by Arora (2002, 2007), H�stad (2004/05), Kelner (2007, 2009), and Tulsiani (2013). Students should have a solid undergraduate background in math (e.g., elementary combinatorics, graph theory, discrete probability, basic algebra/calculus) and theoretical computer science (running time analysis, big-O/Omega/Theta, P and NP, basic fundamental algorithms).

@@ -1,0 +1,6 @@
+Title: 15-802CSD PhD Elective
+Course Number: 15-802
+Units: VAR units
+Prerequisites: None
+Corequisites: None
+Description: This course number is used for internal course transfer for approved electives outside CSD

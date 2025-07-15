@@ -1,0 +1,6 @@
+Title: 15-348Embedded Systems
+Course Number: 15-348
+Units: 9 units
+Prerequisites: 15-122
+Corequisites: None
+Description: This course is offered only at Carnegie Mellon's campus in Qatar.  This course covers the broad range of foundational skills that apply across all embedded computer system application areas, from thermostats to self-driving vehicles. The emphasis is at the layer where hardware meets software. Topics include microcontroller hardware, assembly language, embedded C programming, analog I/O, timers, code optimization, interrupts, and concurrency. Real world engineering practices, constraints, and example applications are integrated throughout the course. Weekly hands-on hardware and software experiences with an industry-strength automotive embedded controller are coordinated with the lecture content to reinforce core skills.

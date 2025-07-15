@@ -1,0 +1,6 @@
+Title: 15-356Introduction to Cryptography
+Course Number: 15-356
+Units: 12 units
+Prerequisites: (15-251) or (21-228)
+Corequisites: None
+Description: This course is aimed as an introduction to modern cryptography. This course will be a mix of applied and theoretical cryptography. We will cover popular primitives such as: pseudorandom functions, encryption, signatures, zero-knowledge proofs, multi-party computation, and Blockchains. In addition, we will cover the necessary number-theoretic background. We will cover formal definitions of security, as well as constructions based on well established assumptions like factoring. Please see the course webpage for a detailed list of topics.

@@ -1,0 +1,6 @@
+Title: 15-469Special Topic: Visual Computing Systems
+Course Number: 15-469
+Units: 12 units
+Prerequisites: 15-462 or 15-418 or 16-385
+Corequisites: None
+Description: Visual computing tasks such as computational imaging, image/video understanding, and real-time graphics are key responsibilities of modern computer systems ranging from sensor-rich smart phones to large datacenters. These workloads demand exceptional system efficiency and this course examines the key ideas, techniques, and challenges associated with the design of parallel, heterogeneous systems that accelerate visual computing applications. This course is intended for graduate and advanced undergraduate-level students interested in architecting efficient graphics, image processing, and computer vision platforms.

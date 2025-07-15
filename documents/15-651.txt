@@ -1,0 +1,6 @@
+Title: 15-651Algorithm Design and Analysis
+Course Number: 15-651
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course is intended for SCS graduate students.  All other graduate students should register for 15-650.  This course is about the design and analysis of algorithms. We study specific algorithms for a variety of problems, as well as general design and analysis techniques. Specific topics include searching, sorting, algorithms for graph problems, efficient data structures, lower bounds and NP-completeness. A variety of other topics may be covered at the discretion of the instructor. These include parallel algorithms, randomized algorithms, geometric algorithms, low level techniques for efficient programming, cryptography, and cryptographic protocols.

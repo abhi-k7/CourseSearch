@@ -1,0 +1,6 @@
+Title: 15-075Computer Science Co-Op
+Course Number: 15-075
+Units: 0-36 units
+Prerequisites: None
+Corequisites: None
+Description: This course is meant for CS undergraduate students with a full-time internship that encompasses a summer and a contiguous semester, either Spring-Summer or Summer-Fall who wish to have this recorded on their academic transcript. Units posted for this course do not count toward any requirement for the CS undergraduate degree including free elective units. This course is not available to international students; consult with the Office for International Education for more information.

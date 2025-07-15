@@ -1,0 +1,6 @@
+Title: 15-355Modern Computer Algebra
+Course Number: 15-355
+Units: 9 units
+Prerequisites: 15-251 or 21-228
+Corequisites: None
+Description: The goal of this course is to investigate the relationship between algebra and computation. The course is designed to expose students to algorithms used for symbolic computation, as well as to the concepts from modern algebra which are applied to the development of these algorithms. This course provides a hands-on introduction to many of the most important ideas used in symbolic mathematical computation, which involves solving system of polynomial equations (via Groebner bases), analytic integration, and solving linear difference equations. Throughout the course the computer algebra system Mathematica will be used for computation.

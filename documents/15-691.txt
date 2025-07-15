@@ -1,0 +1,6 @@
+Title: 15-691Practicum
+Course Number: 15-691
+Units: 3-24 units
+Prerequisites: None
+Corequisites: None
+Description: To be determined

@@ -1,0 +1,6 @@
+Title: 15-051Discrete Math Primer
+Course Number: 15-051
+Units: 1 units
+Prerequisites: None
+Corequisites: None
+Description: DMP is an online course that introduces students to three foundational topics in mathematics: logic, sets and functions.  The course differs from traditional counterparts in its strong and consistent emphasis on computational aspects.  This approach is particularly suitable for students who are interested in the computational universe, and not just in classical mathematics.  Each of the three modules in DMP ends in a checkpoint, an assessment that helps students evaluate their understanding of the material.  Incoming undergraduate computer science majors are encouraged to take this online course prior to arrival on campus. Additionally, high school students contemplating a computer science or mathematics major may find this course useful.    The course uses Carnegie Mellons OLI system as a delivery platform.

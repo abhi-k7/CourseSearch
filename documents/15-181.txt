@@ -1,0 +1,6 @@
+Title: 15-181Demystifying AI
+Course Number: 15-181
+Units: 9 units
+Prerequisites: 15-110 or 15-112
+Corequisites: None
+Description: This course will pull back the curtains on artificial intelligence, helping you learn what it is, what it can do, how to use it, how it works, and what can go wrong. This course is designed for students that want to learn about AI and machine learning but dont have the course schedule bandwidth to build up the math and computing background required for full-fledged intro AI and ML courses, such as 15-281 and 10-301. Leveraging high school algebra and basic Python programming skills from 15-110, well help you implement key pieces of AI techniques from the nearest neighbor algorithm to simple neural networks. Through in-class activities, weekly recitations, and course assignments, youll start to learn how to use AI systems, including how to make them intelligent, what data might be needed, and what can go wrong. Ethical discussions will be woven throughout the course to enable you to think critically about how AI impacts our society.

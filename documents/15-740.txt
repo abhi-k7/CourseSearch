@@ -1,0 +1,6 @@
+Title: 15-740Computer Architecture
+Course Number: 15-740
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course attempts to provide a deep understanding of the issues and challenges involved in designing and implementing modern computer systems. Our primary goal is to help students become more skilled in their use of computer systems, including the development of applications and system software. Users can benefit greatly from understanding how computer systems work, including their strengths and weaknesses. This is particularly true in developing applications where performance is an issue.

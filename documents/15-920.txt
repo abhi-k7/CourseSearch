@@ -1,0 +1,6 @@
+Title: 15-920Diversity, Equity, and Inclusion in Computer Science and Society (Pilot)
+Course Number: 15-920
+Units: 3 units
+Prerequisites: None
+Corequisites: None
+Description: This is a brand new course, developed by PhD students, for PhD students. The goal of this course is to prepare PhD students for the complex challenges they may face in the PhD program, and to equip them with tools to be more inclusive members of the computer science community. In this course, we will explore concepts from the humanities and social justice literature (e.g., inclusivity, privilege, equity, and allyship) through the lenses of academic research and computer science. Our goal is to make this material accessible, thought-provoking, and actionable to students of a variety of backgrounds and levels of understanding of diversity, equity, and inclusion.  This pilot course consists of six 80-minute sessions, where each session is focused on a different topic. Sessions include short lectures by experts, followed by 60 minutes of small-group discussions (3-4 students / group). Between sessions, students must complete an activity asynchronously to help them reflect on the previous session and prepare for the next.  Please refer to http://www.cs.cmu.edu/csd-grad/courseschedulef21.html for the most recent schedule updates.

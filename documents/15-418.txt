@@ -1,0 +1,6 @@
+Title: 15-418Parallel Computer Architecture and Programming
+Course Number: 15-418
+Units: 12 units
+Prerequisites: 15-213
+Corequisites: None
+Description: The fundamental principles and engineering tradeoffs involved in designing modern parallel computers, as well as the programming techniques to effectively utilize these machines. Topics include naming shared data, synchronizing threads, and the latency and bandwidth associated with communication. Case studies on shared-memory, message-passing, data-parallel and dataflow machines will be used to illustrate these techniques and tradeoffs. Programming assignments will be performed on one or more commercial multiprocessors, and there will be a significant course project.

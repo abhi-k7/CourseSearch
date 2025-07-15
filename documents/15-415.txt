@@ -1,0 +1,6 @@
+Title: 15-415Database Applications
+Course Number: 15-415
+Units: 12 units
+Prerequisites: 15-210 and 15-213
+Corequisites: None
+Description: This course covers the fundamental topics for Database Management  Systems: Database System Architectural Principles (ACID properties; data abstraction; external, conceptual, and internal schemata; data  independence; data definition and data manipulation languages), Data  models (entity-relationship and relational data models; data  structures, integrity constraints, and operations for each data  model; relational query languages: SQL, algebra, calculus), Theory of  database design (functional dependencies; normal forms; dependency  preservation; information loss), Query Optimization (equivalence of  expressions, algebraic manipulation; optimization of selections and  joins), Storage Strategies (indices, B-trees, hashing), Query Processing (execution of sort, join, and aggregation operators), and Transaction Processing (recovery and concurrency control).

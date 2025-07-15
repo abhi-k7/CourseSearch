@@ -1,0 +1,6 @@
+Title: 15-282Artificial Intelligence for Medicine
+Course Number: 15-282
+Units: 10 units
+Prerequisites: 15-112
+Corequisites: None
+Description: This course introduces Artificial Intelligence (AI) and its recent applications in medicine for students with only a little background in computer science. It starts by motivating and defining AI, before folding over to a survey of some of its newest applications to medicine, including diagnosis, prognosis, drug discovery, and recommendations of individualized treatments, to mention just a few. Afterwards, it provides a birds-eye view of some of the major AI techniques, including machine learning, deep neural networks, recommendation systems, ranked retrieval, and probabilistic graphical models. Finally, it concludes with a discussion on some of the concerns related to AI, including ethical issues, job security, society, and healthcare institutions, among others.  The course comprises a balance of lectures, case studies, live demonstrations of some medical AI applications, problem-solving & programming assignments, and research tasks. The students will be exposed to industry- and research-based perspectives on AI for medicine. In addition, they will learn through a course project the nuances of working with medical data and applying AI models to solve concrete problems in healthcare.

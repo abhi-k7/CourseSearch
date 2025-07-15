@@ -1,0 +1,6 @@
+Title: 15-698MSCS Research Thesis
+Course Number: 15-698
+Units: 1-36 units
+Prerequisites: None
+Corequisites: None
+Description: This course is for students in the "MSCS" course-based Computer Science master's program who are participating in the thesis option.  Students will be automatically wait-listed pending program approval of a thesis proposal (contact your academic advisor for details).

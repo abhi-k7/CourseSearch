@@ -1,0 +1,6 @@
+Title: 15-884Special Topic: Theoretical and empirical foundations of modern machine learning
+Course Number: 15-884
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: In this advanced machine learning seminar class, we tackle the typical struggle in using the powerful deep learning machinery - what works and why? We build a conceptual understanding of deep learning through several different angles: standard in-distribution generalization, out-of-distribution generalization, self-supervised learning, scaling laws, memorization etc. We will read papers that contain a mix of theoretical and empirical insights with a focus on making connections to classic ideas, identifying recurring themes, and discussing avenues for future developments. The class aims to equip students with the ability to critically reason about and build a more principled understanding of current advances which will hopefully spark their own research.

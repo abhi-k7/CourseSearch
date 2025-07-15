@@ -1,0 +1,6 @@
+Title: 15-050Study Abroad
+Course Number: 15-050
+Units: 0 units
+Prerequisites: None
+Corequisites: None
+Description: Students who are interested in studying abroad should first contact the Office of International Education. More information on Study Abroad is available on OIE's Study Abroad page and at the CS Undergraduate Office.

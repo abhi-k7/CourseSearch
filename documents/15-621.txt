@@ -1,0 +1,6 @@
+Title: 15-621ST: Developing Blockchain Use Cases
+Course Number: 15-621
+Units: 6 units
+Prerequisites: None
+Corequisites: None
+Description: While the course will not be overly technical on any specific dimension, it will be hands on and you will need to be creative. Therefore, while there are no formal prerequisites, we expect students to have a background in economics, cryptography, or computer science and all students should have some basic comfortability with programming. We will do our best to create groups that feature a mix of existing knowledge. The overall goal is to deliver enough knowledge about the potential and capabilities of blockchain technologies to enable students interested in this space to develop their own uses cases or applications.

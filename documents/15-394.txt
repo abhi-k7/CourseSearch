@@ -1,0 +1,6 @@
+Title: 15-394Intermediate Rapid Prototyping
+Course Number: 15-394
+Units: 5 units
+Prerequisites: None
+Corequisites: None
+Description: This course covers additional topics in rapid prototyping beyond the content of 15-294.  Example topics include mechanism design, procedural shape generation using Grasshopper, 3D scanning and mesh manipulation, and advanced SolidWorks concepts. The only prerequisite is basic familiarity with SolidWorks, which can be obtained via 15-294, from other CMU courses, or from online tutorials.

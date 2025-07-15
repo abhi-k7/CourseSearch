@@ -1,0 +1,6 @@
+Title: 15-441Networking and the Internet
+Course Number: 15-441
+Units: 12 units
+Prerequisites: 15-213
+Corequisites: None
+Description: The emphasis in this course will be on the basic performance and engineering trade-offs in the design and implementation of computer networks. To make the issues more concrete, the class includes several multi-week projects requiring significant design and implementation. The goal is for students to learn not only what computer networks are and how they work today, but also why they are designed the way they are and how they are likely to evolve in the future. We will draw examples primarily from the Internet. Topics to be covered include: network architecture, routing, congestion/flow/error control, naming and addressing, peer-to-peer and the web, internetworking, and network security.

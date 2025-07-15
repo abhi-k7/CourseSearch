@@ -1,0 +1,6 @@
+Title: 15-998Practicum in Computer Science
+Course Number: 15-998
+Units: 1-36 units
+Prerequisites: None
+Corequisites: None
+Description: Individualized Experience - Internships

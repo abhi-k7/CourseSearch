@@ -1,0 +1,6 @@
+Title: 15-749Post-von Neumann Computer Architecture:
+Course Number: 15-749
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Computing has been dominated by von Neumann CPU architectures for seventy years. The von Neumann architecture is familiar and flexible, but it is also extremely inefficient, wasting upwards of 99% of energy. As computing is now energy-limited across all scales, from IoT to data center, von Neumann's inefficiency can no longer be tolerated. Recently, industry has adopted heterogeneous "accelerator" hardware to boost performance and efficiency. However, accelerators have limited programmability, sacrificing the main benefit of CPU architectures and putting future innovation at risk. This class will survey non-von Neumann general-purpose architectures, recent work on specialized hardware accelerators, and cutting-edge research on "programmable accelerators".

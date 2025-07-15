@@ -1,0 +1,6 @@
+Title: 15-155The Computational Lens
+Course Number: 15-155
+Units: 9 units
+Prerequisites: 15-110 or 15-112 or 15-104
+Corequisites: None
+Description: What is knowable, in principle and in practice? - What does it mean to be intelligent? - Can creativity be automated? - What is the role of randomness in the universe? - How can we achieve provable guarantees of security, privacy, fairness, etc. in various settings? - What does the social network of the world look like? - Do we live in a simulation?  Despite their differences, all of these questions are fundamentally about the notion of computation. And all these questions can be put under the following single umbrella:  What is computation and how does it shape our understanding of life, science, technology, and society?  This course is for anyone interested in these questions and more broadly, anyone interested in the algorithmic lens to tackle hard, foundational problems. Our goal will be to find reliable explanations through modeling and rigorous reasoning. We will discuss great and powerful ideas from the field of theory of computation and see how these ideas shed new light on human reasoning, laws of nature, life, technology, and society.

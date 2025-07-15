@@ -1,0 +1,6 @@
+Title: 15-719Advanced Cloud Computing
+Course Number: 15-719
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: Computing in the cloud has emerged as a leading paradigm for cost-effective, scalable, well-managed computing. Users pay for services provided in a broadly shared, power efficient datacenter, enabling dynamic computing needs to be met without paying for more than is needed. Actual machines may be virtualized into machine-like services, or more abstract programming platforms, or application-specific services, with the cloud computing infrastructure managing sharing, scheduling, reliability, availability, elasticity, privacy, provisioning and geographic replication This course will survey the aspects of cloud computing by reading about 30 papers and articles, executing cloud computing tasks on a state of the art cloud computing service, and implementing a change or feature in a state of the art cloud computing framework. There will be no final exam, but there will be two in class exams. Grades will be about 50 project work and about 50 examination results.

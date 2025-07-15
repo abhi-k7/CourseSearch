@@ -1,0 +1,6 @@
+Title: 15-791Advanced Topics in Foundations of Programming Languages
+Course Number: 15-791
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: An advanced follow-on to 15-312 developing further ideas and results in the theory of programming languages.

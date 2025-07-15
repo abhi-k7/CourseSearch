@@ -1,0 +1,6 @@
+Title: 15-296Women in Computing Around the World
+Course Number: 15-296
+Units: 5 units
+Prerequisites: 76-102 or 76-107 or 76-101 or 76-106 or 76-108
+Corequisites: None
+Description: In this course we will take a global perspective to examine how various catalysts and obstacles influence participation in computing. We will examine the roles played by cultural attitudes and behaviors, by the media, by bias (explicit and implicit), by stereotypes, and by family and peers. Through research, reading, and discussion we will attempt to answer why some seemingly disparate situations exist. Why is it that women are seriously underrepresented in computing in most of the USA and many parts of the world? At the same time, how is it that schools as dissimilar as Carnegie Mellon University and the University of Malaysia have 50 women in their computer science programs?

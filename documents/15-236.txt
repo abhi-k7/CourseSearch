@@ -1,0 +1,6 @@
+Title: 15-236Special Topics: Saving Humanity With Computational Models
+Course Number: 15-236
+Units: 9 units
+Prerequisites: 15-112 and 21-120
+Corequisites: None
+Description: We live in a complex society and on a complex planet; but we tend to think about the world through simplified models and assumptions. How do we know if our simplified mental models make sense? Computational modeling is an approach to understanding our understanding of the world wherein we write down our mental models as computer code, mix in a bit of real data, and run it to see what we can learn. Models can help us to understand ourselves, the world around us, and how to shape the future.     This course will teach the basics of computational modeling through hands-on exercises investigating student-directed topics. We will cover the basics of computational modeling, finding and processing data, visualization, modularity, and interactivity. Students will build a series of models throughout the course, starting with smaller warm-ups and culminating in a final project in which students will work together to create a high-quality model and interactive web-based visualization with the goal of informing public discourse and policymaking.  This course is designed for CS sophomores and most seats in the course will be reserved for CS sophomores.

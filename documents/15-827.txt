@@ -1,0 +1,6 @@
+Title: 15-827Foundations of Blockchains and Distributed Consensus
+Course Number: 15-827
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: In this course, you will learn the mathematical foundations of distributed consensus as well as how to construct consensus protocols and prove them secure. We will motivate distributed consensus with a modern narrative, and yet we will cover the classical theoretical foundations of consensus. We will cover both classical, permissioned consensus protocols, as well as modern, permissionless consensus protocols such as Bitcoin. Prerequisites: This is a Ph.D.-level course. We require knowledge of undergraduate-level discrete mathematics, probability, and algorithms (or equivalent). Please refer to https://www.cs.cmu.edu/csd-grad/courseschedulef20.html for the most recent schedule updates.

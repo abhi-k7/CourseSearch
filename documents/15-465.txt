@@ -1,0 +1,6 @@
+Title: 15-465Animation Art and Technology
+Course Number: 15-465
+Units: 12 units
+Prerequisites: 15-213 or 18-213
+Corequisites: None
+Description: Animation, Art, and Technology is an interdisciplinary, Art and Computer Science, cross-listed course. Faculty and teaching assistants from computer science and art teach the class as a team. It is a project-based course in which interdisciplinary teams of students can produce animations across platforms from single channel to augmented reality. Most of the animations have a substantive technical component and the students are challenged to consider innovation with content to be equal with the technical. The class includes basic tutorials for work in Maya and Unity leading toward more advanced applications and extensions of the software such as motion capture and algorithms for animating cloth, hair, particles, and immersive technologies.

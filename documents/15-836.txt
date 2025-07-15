@@ -1,0 +1,6 @@
+Title: 15-836Substructural Logics:
+Course Number: 15-836
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This graduate course provides an introduction to substructural logics, such as linear, ordered, affine, bunched, or separation logic, with an emphasis on their applications in computer science. This includes the design and theory of programming constructs for concurrent message-passing computation and techniques for specifying and reasoning about programming languages in the form of substructural operational semantics.

@@ -1,0 +1,6 @@
+Title: 15-121Introduction to Data Structures
+Course Number: 15-121
+Units: 10 units
+Prerequisites: 15-112
+Corequisites: None
+Description: A continuation of the process of program design and analysis for  students with some prior programming experience (functions, loops, and  arrays, not necessarily in Java). The course reinforces object-oriented  programming techniques in Java and covers data aggregates, data  structures (e.g., linked lists, stacks, queues, trees, and graphs), and  an introduction to the analysis of algorithms that operate on those data  structures.

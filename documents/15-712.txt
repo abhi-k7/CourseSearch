@@ -1,0 +1,6 @@
+Title: 15-712Advanced Operating Systems and Distributed Systems
+Course Number: 15-712
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This is a graduate course in operating systems. The course will consist of a reading/lecture/discussion component and a project component. The class will cover approximately 40 research papers. Some of these papers will introduce students to the basic principles on which modern operating systems and distributed systems are based. Others will cover more recent work to explore the state of the art and observe the evolution of these systems over time.

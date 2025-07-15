@@ -1,0 +1,6 @@
+Title: 15-604Immigration Course
+Course Number: 15-604
+Units: 3 units
+Prerequisites: None
+Corequisites: None
+Description: This is a discussion course with enrollment limited to MS in CS students during their first semester in the program. Students explore the scope of graduate education in computer science, the tools and techniques for success, and the resources available to MS in CS students. Students also explore life after graduation, including careers in academia, industry, and other organizations, and plan an academic program that supports their individual goals.

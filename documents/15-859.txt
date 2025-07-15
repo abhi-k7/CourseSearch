@@ -1,0 +1,6 @@
+Title: 15-859Special Topics in Theory: Cryptography
+Course Number: 15-859
+Units: 12 units
+Prerequisites: None
+Corequisites: None
+Description: This course is geared to cover advanced topics in cryptography. The course will have a theory focus and cover trending topics in cryptography (that might change depending on the year). The course is meant for students who are either already doing research in cryptography or considering research in the area.   In the Spring 2025, we will cover advanced topics such as homomorphic crypto-systems, multi-party computation, zero-knowledge proofs and obfuscation.

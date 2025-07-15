@@ -1,0 +1,6 @@
+Title: 15-292History of Computing:
+Course Number: 15-292
+Units: 5 units
+Prerequisites: (76-106 or 76-102 or 76-101 or 76-107 or 76-108) and (15-150 or 15-110 or 15-122 or 15-112)
+Corequisites: None
+Description: This course traces the history of computational devices, pioneers and principles from the early ages through the present. Topics include early computational devices, mechanical computation in the 19th century, events that led to electronic computing advances in the 20th century, the advent of personal computing and the Internet, and the social, legal and ethical impact of modern computational artifacts. This course also includes a history of programming languages, operating systems, processors and computing platforms. Students should have an introductory exposure to programming prior to taking this course.

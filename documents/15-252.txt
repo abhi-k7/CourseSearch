@@ -1,0 +1,6 @@
+Title: 15-252More Great Ideas in Theoretical Computer Science
+Course Number: 15-252
+Units: 5 units
+Prerequisites: (15-122 or 15-150) and (15-151 or 21-127 or 21-128)
+Corequisites: 15-251
+Description: This course is intended for students who are taking 15-251 and would like more intensive exposure to theoretical computer science. The goal is to bring interested students closer to the research frontier. The class meets once a week for a lecture and the students are expected to solve a number of homework problems during the course of the semester. The work done in 15-252 does not replace any of the requirements of 15-251. Having achieved a grade of A in 15-151/21-127 is recommended.

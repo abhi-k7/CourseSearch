@@ -1,0 +1,6 @@
+Title: 15-300Research and Innovation in Computer Science
+Course Number: 15-300
+Units: 9 units
+Prerequisites: (76-101 and 15-210 and 15-213) or (76-101 and 15-213 and 15-251) or (76-101 and 15-210 and 15-251)
+Corequisites: None
+Description: This Fall course is the first part of a two-course sequence that is designed to help prepare students to invent the future state-of-the-art in the field of computer science. Course topics will include the following: an overview of important things to know about how research and innovation works in the field of computer science; a survey of the current cutting- edge of computer science research, both here at Carnegie Mellon and elsewhere; critical thinking skills when reading research publications that disagree with each other; strategies for coping with open-ended problems; and technical communication skills for computer scientists. Students will also match up with a faculty mentor for a potential Technology Innovation Project (to be performed in the Spring), put together a detailed plan of attack for that project, and start to get up to speed (including background reading, etc.). This course can be used to satisfy the Technical Communications requirement for the CS major.
