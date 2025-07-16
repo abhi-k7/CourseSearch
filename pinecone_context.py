@@ -14,8 +14,6 @@ from pinecone import Pinecone, ServerlessSpec
 from langchain_community.retrievers import BM25Retriever
 from langchain.retrievers import EnsembleRetriever
 from sentence_transformers import CrossEncoder
-from langchain_core.documents import Document
-
 
 
 # --- Load keys ---
@@ -55,12 +53,24 @@ embedding = HuggingFaceBgeEmbeddings(
     encode_kwargs=encode_kwargs
 )
 
-index_name = "cmu-courses"
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-vectorstore = PineconeVectorStore.from_existing_index(
-    index_name=index_name,
+index_name = "cmu-courses"
+existing_indexes = [idx["name"] for idx in pc.list_indexes()]
+
+if index_name not in existing_indexes:
+    pc.create_index(
+        name=index_name,
+        dimension=768,  # dimension of BGE
+        metric="cosine",
+        spec=ServerlessSpec(cloud="aws", region="us-east-1")
+    )
+
+# --- Step 5: Create the vector store ---
+vectorstore = PineconeVectorStore.from_documents(
+    documents=documents,
     embedding=embedding,
+    index_name=index_name,
 )
 
 # --- Gemini model ---
@@ -109,16 +119,14 @@ while True:
 
     ranked_docs = [doc for _, doc in sorted(zip(scores, docs), key=lambda x: -x[0])]
     top_docs = ranked_docs[:8]
-    
+
     top_course_ids = list({doc.metadata["course_id"] for doc in top_docs})
 
     full_context = "\n\n".join([course_map[course_id] for course_id in top_course_ids])
-    context_docs = [Document(page_content=full_context)]
-
 
     response = qa_chain.invoke({
         "input": query,
-        "context": context_docs
+        "context": full_context
     })
 
     print("\n--- Answer ---")
