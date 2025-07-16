@@ -11,6 +11,9 @@ from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from pinecone import Pinecone, ServerlessSpec
+from langchain_community.retrievers import BM25Retriever
+from langchain.retrievers import EnsembleRetriever
+
 
 # --- Load Keys ---
 load_dotenv()
@@ -77,8 +80,16 @@ prompt = ChatPromptTemplate.from_messages([
 ])
 
 qa_chain = create_stuff_documents_chain(llm=llm, prompt=prompt)
-retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 5})
-rag_chain = create_retrieval_chain(retriever=retriever, combine_docs_chain=qa_chain)
+
+dense_retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 10})
+bm25_retriever = BM25Retriever.from_documents(documents)
+bm25_retriever.k = 10
+
+ensemble_retriever = EnsembleRetriever(
+    retrievers=[bm25_retriever, dense_retriever], weights=[0.5, 0.5]
+)
+
+rag_chain = create_retrieval_chain(retriever=ensemble_retriever, combine_docs_chain=qa_chain)
 
 # --- Step 8: Ask a question ---
 query = input("\nAsk a question about CMU CS courses: ")
